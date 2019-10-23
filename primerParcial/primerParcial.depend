@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1570754019 source:/home/alumno/primerParcial/primerParcial/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1571256962 "
+
+1570745889 /home/alumno/primerParcial/primerParcial/cliente.h
+
+1568463233 /home/alumno/primerParcial/primerParcial/utn.h
+
+1570748557 source:/home/alumno/primerParcial/primerParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"recoleccion.h"
+	"subMenu.h"
+
+1570748532 /home/alumno/primerParcial/primerParcial/subMenu.h
+
+1570754512 source:/home/alumno/primerParcial/primerParcial/subMenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"recoleccion.h"
+	"utn.h"
+	"subMenu.h"
+
+1570744863 source:/home/alumno/primerParcial/primerParcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1570759370 
+
+1570755365 source:/home/alumno/primerParcial/primerParcial/recoleccion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"recoleccion.h"
+	"cliente.h"
+
+1570754087 /home/alumno/primerParcial/primerParcial/recoleccion.h
+	"cliente.h"
+
+1571113104 source:c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1570759370 c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\cliente.h
+
+1570759370 c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\utn.h
+
+1571241747 source:c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"recoleccion.h"
+	"subMenu.h"
+
+1571342237 c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\recoleccion.h
+	"cliente.h"
+
+1571241707 c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\submenu.h
+
+1571342442 source:c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\recoleccion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"recoleccion.h"
+	"cliente.h"
+
+1571342264 source:c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\submenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"recoleccion.h"
+	"utn.h"
+	"subMenu.h"
+
+1570759370 source:c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1571256962 source:c:\users\lucia\desktop\primerparcial10_10\primerparcial\primerparcial\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"recoleccion.h"
+	"subMenu.h"
+
+1571102306 source:/home/alumno/primerParcial/primerParcial/primerParcial/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1570748572 /home/alumno/primerParcial/primerParcial/primerParcial/cliente.h
+
+1570748572 /home/alumno/primerParcial/primerParcial/primerParcial/utn.h
+
+1571361588 source:/home/alumno/primerParcial/primerParcial/primerParcial/Informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"recoleccion.h"
+	"subMenu.h"
+
+1571331438 /home/alumno/primerParcial/primerParcial/primerParcial/recoleccion.h
+	"cliente.h"
+
+1571350458 /home/alumno/primerParcial/primerParcial/primerParcial/subMenu.h
+
+1571350457 source:/home/alumno/primerParcial/primerParcial/primerParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"recoleccion.h"
+	"subMenu.h"
+
+1571351332 source:/home/alumno/primerParcial/primerParcial/primerParcial/recoleccion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"recoleccion.h"
+	"cliente.h"
+
+1571361540 source:/home/alumno/primerParcial/primerParcial/primerParcial/subMenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"recoleccion.h"
+	"Informes.h"
+	"utn.h"
+	"subMenu.h"
+
+1570748572 source:/home/alumno/primerParcial/primerParcial/primerParcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1571361540 /home/alumno/primerParcial/primerParcial/primerParcial/Informes.h
+
